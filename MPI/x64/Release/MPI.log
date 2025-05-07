@@ -1,0 +1,17 @@
+﻿  dijkstra.cpp
+D:\Homeworks\MPI\MPI\MPI\dijkstra.cpp(60,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Homeworks\MPI\MPI\MPI\dijkstra.cpp(63,21): warning C4838: conversion from 'unsigned __int64' to 'int' requires a narrowing conversion
+D:\Homeworks\MPI\MPI\MPI\dijkstra.cpp(63,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Homeworks\MPI\MPI\MPI\dijkstra.cpp(63,46): warning C4838: conversion from '__int64' to 'int' requires a narrowing conversion
+D:\Homeworks\MPI\MPI\MPI\dijkstra.cpp(63,46): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Homeworks\MPI\MPI\MPI\dijkstra.cpp(67,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Homeworks\MPI\MPI\MPI\dijkstra.cpp(78,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Homeworks\MPI\MPI\MPI\dijkstra.cpp(89,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Homeworks\MPI\MPI\MPI\dijkstra.cpp(161,25): warning C4018: '<': signed/unsigned mismatch
+  map.cpp
+  MPI.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 564 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MPI.vcxproj -> D:\Homeworks\MPI\MPI\x64\Release\MPI.exe
